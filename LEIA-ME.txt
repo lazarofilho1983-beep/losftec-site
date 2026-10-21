@@ -1,0 +1,19 @@
+PROJETO LOSFTEC — SITE INICIAL
+
+Como visualizar:
+1. Extraia o arquivo ZIP para uma pasta no computador.
+2. Abra a pasta Projeto_Losftec.
+3. Dê dois cliques em index.html para abrir no navegador.
+
+Arquivos:
+- index.html: conteúdo e estrutura do site.
+- styles.css: identidade visual e layout responsivo.
+- script.js: menu para celular e ano automático no rodapé.
+- assets/losftec-logo.png: versão de apresentação da marca, sem a linha “Consultoria para Provedores”.
+- assets/marca-original.png: imagem original enviada para referência.
+
+Observações:
+- O site ainda não foi publicado.
+- Os botões de WhatsApp e e-mail usam os contatos informados.
+- A página usa uma fonte do Google Fonts quando há internet; com internet indisponível, usa fontes alternativas.
+- Revise os serviços e textos antes de publicar para garantir que representam exatamente o que a Losftec oferece.
