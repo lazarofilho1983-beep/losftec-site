@@ -1,0 +1,13 @@
+LOSFTEC — ARQUIVOS PARA PUBLICAÇÃO
+
+Extraia este ZIP e envie os arquivos abaixo para a raiz do repositório GitHub, substituindo os arquivos com o mesmo nome:
+
+- index.html
+- styles.css
+- script.js
+- losftec-logo.png
+- marca-original.png (cópia de segurança da marca)
+
+IMPORTANTE: não envie apenas este ZIP ao repositório. O GitHub Pages não extrai ZIP automaticamente. Envie os arquivos extraídos individualmente pela opção Add file > Upload files e finalize em Commit changes.
+
+O index.html referencia a logo como losftec-logo.png na raiz do repositório.
